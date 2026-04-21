@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 500" width="720" height="500">
+
+  <!-- paper -->
+  <rect x="0" y="0" width="720" height="500" fill="#f4ecd8"/>
+
+  <!-- margin rule -->
+  <rect x="18" y="18" width="684" height="464"
+        fill="none" stroke="#1f1a14" stroke-width="0.6" opacity="0.6"/>
+
+  <!-- top title strip -->
+  <text x="36" y="44" font-family="IBM Plex Mono, monospace"
+        font-size="11" fill="#1f1a14" letter-spacing="2">
+    BROADACRE CITY — FRANK LLOYD WRIGHT, 1932
+  </text>
+  <line x1="36" y1="54" x2="684" y2="54"
+        stroke="#1f1a14" stroke-width="0.5"/>
+
+  <!-- height caption -->
+  <text x="684" y="474" font-family="IBM Plex Mono, monospace"
+        font-size="9" fill="#8a7f67" text-anchor="end" letter-spacing="1.5">
+    DISTRIBUTED PLAN
+  </text>
+
+  <!-- optional note at lower-left -->
+  <text x="36" y="474" font-family="IBM Plex Mono, monospace"
+        font-size="9" fill="#8a7f67" letter-spacing="1.5">
+    
+  </text>
+  <line x1="36" y1="430" x2="684" y2="430" stroke="#1f1a14" stroke-width="0.8"/>
+  <line x1="60" y1="430" x2="52" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="74" y1="430" x2="66" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="88" y1="430" x2="80" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="102" y1="430" x2="94" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="116" y1="430" x2="108" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="130" y1="430" x2="122" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="144" y1="430" x2="136" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="158" y1="430" x2="150" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="172" y1="430" x2="164" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="186" y1="430" x2="178" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="200" y1="430" x2="192" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="214" y1="430" x2="206" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="228" y1="430" x2="220" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="242" y1="430" x2="234" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="256" y1="430" x2="248" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="270" y1="430" x2="262" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="284" y1="430" x2="276" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="298" y1="430" x2="290" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="312" y1="430" x2="304" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="326" y1="430" x2="318" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="340" y1="430" x2="332" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="354" y1="430" x2="346" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="368" y1="430" x2="360" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="382" y1="430" x2="374" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="396" y1="430" x2="388" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="410" y1="430" x2="402" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="424" y1="430" x2="416" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="438" y1="430" x2="430" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="452" y1="430" x2="444" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="466" y1="430" x2="458" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="480" y1="430" x2="472" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="494" y1="430" x2="486" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="508" y1="430" x2="500" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="522" y1="430" x2="514" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="536" y1="430" x2="528" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="550" y1="430" x2="542" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="564" y1="430" x2="556" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="578" y1="430" x2="570" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="592" y1="430" x2="584" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="606" y1="430" x2="598" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="620" y1="430" x2="612" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="634" y1="430" x2="626" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="648" y1="430" x2="640" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="662" y1="430" x2="654" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="676" y1="430" x2="668" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <rect x="90" y="395" width="30" height="35" fill="none" stroke="#1f1a14" stroke-width="0.8"/>
+  <polygon points="87,395 105,382 123,395" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
+  <rect x="160" y="395" width="30" height="35" fill="none" stroke="#1f1a14" stroke-width="0.8"/>
+  <polygon points="157,395 175,382 193,395" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
+  <rect x="230" y="395" width="30" height="35" fill="none" stroke="#1f1a14" stroke-width="0.8"/>
+  <polygon points="227,395 245,382 263,395" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
+  <rect x="310" y="395" width="30" height="35" fill="none" stroke="#1f1a14" stroke-width="0.8"/>
+  <polygon points="307,395 325,382 343,395" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
+  <rect x="390" y="395" width="30" height="35" fill="none" stroke="#1f1a14" stroke-width="0.8"/>
+  <polygon points="387,395 405,382 423,395" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
+  <rect x="470" y="395" width="30" height="35" fill="none" stroke="#1f1a14" stroke-width="0.8"/>
+  <polygon points="467,395 485,382 503,395" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
+  <rect x="550" y="395" width="30" height="35" fill="none" stroke="#1f1a14" stroke-width="0.8"/>
+  <polygon points="547,395 565,382 583,395" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
+  <rect x="630" y="395" width="30" height="35" fill="none" stroke="#1f1a14" stroke-width="0.8"/>
+  <polygon points="627,395 645,382 663,395" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
+  <line x1="360.0" y1="270" x2="360.0" y2="400" stroke="#1f1a14" stroke-width="1.2"/>
+  <line x1="356.0" y1="270" x2="364.0" y2="270" stroke="#1f1a14" stroke-width="1"/>
+  <path d="M 348.0 290 L 360.0 270 L 372.0 290" fill="none" stroke="#1f1a14" stroke-width="0.8"/>
+  <line x1="36" y1="430" x2="684" y2="430" stroke="#1f1a14" stroke-width="0.8"/>
+  <line x1="360.0" y1="440" x2="360.0" y2="420" stroke="#1f1a14" stroke-width="0.6"/>
+  <line x1="80" y1="440" x2="80" y2="440" stroke="#1f1a14" stroke-width="0.25" stroke-dasharray="3 4" opacity="0.4"/>
+  <line x1="140" y1="440" x2="140" y2="440" stroke="#1f1a14" stroke-width="0.25" stroke-dasharray="3 4" opacity="0.4"/>
+  <line x1="200" y1="440" x2="200" y2="440" stroke="#1f1a14" stroke-width="0.25" stroke-dasharray="3 4" opacity="0.4"/>
+  <line x1="260" y1="440" x2="260" y2="440" stroke="#1f1a14" stroke-width="0.25" stroke-dasharray="3 4" opacity="0.4"/>
+  <line x1="320" y1="440" x2="320" y2="440" stroke="#1f1a14" stroke-width="0.25" stroke-dasharray="3 4" opacity="0.4"/>
+  <line x1="380" y1="440" x2="380" y2="440" stroke="#1f1a14" stroke-width="0.25" stroke-dasharray="3 4" opacity="0.4"/>
+  <line x1="440" y1="440" x2="440" y2="440" stroke="#1f1a14" stroke-width="0.25" stroke-dasharray="3 4" opacity="0.4"/>
+  <line x1="500" y1="440" x2="500" y2="440" stroke="#1f1a14" stroke-width="0.25" stroke-dasharray="3 4" opacity="0.4"/>
+  <line x1="560" y1="440" x2="560" y2="440" stroke="#1f1a14" stroke-width="0.25" stroke-dasharray="3 4" opacity="0.4"/>
+  <line x1="620" y1="440" x2="620" y2="440" stroke="#1f1a14" stroke-width="0.25" stroke-dasharray="3 4" opacity="0.4"/>
+
+</svg>
