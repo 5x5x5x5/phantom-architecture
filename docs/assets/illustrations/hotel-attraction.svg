@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 500" width="720" height="500">
+
+  <!-- paper -->
+  <rect x="0" y="0" width="720" height="500" fill="#f4ecd8"/>
+
+  <!-- margin rule -->
+  <rect x="18" y="18" width="684" height="464"
+        fill="none" stroke="#1f1a14" stroke-width="0.6" opacity="0.6"/>
+
+  <!-- top title strip -->
+  <text x="36" y="44" font-family="IBM Plex Mono, monospace"
+        font-size="11" fill="#1f1a14" letter-spacing="2">
+    HOTEL ATTRACTION — GAUDÍ, 1908
+  </text>
+  <line x1="36" y1="54" x2="684" y2="54"
+        stroke="#1f1a14" stroke-width="0.5"/>
+
+  <!-- height caption -->
+  <text x="684" y="474" font-family="IBM Plex Mono, monospace"
+        font-size="9" fill="#8a7f67" text-anchor="end" letter-spacing="1.5">
+    NEW YORK: 360 M
+  </text>
+
+  <!-- optional note at lower-left -->
+  <text x="36" y="474" font-family="IBM Plex Mono, monospace"
+        font-size="9" fill="#8a7f67" letter-spacing="1.5">
+    
+  </text>
+  <line x1="36" y1="440" x2="684" y2="440" stroke="#1f1a14" stroke-width="0.8"/>
+  <line x1="60" y1="440" x2="52" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="74" y1="440" x2="66" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="88" y1="440" x2="80" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="102" y1="440" x2="94" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="116" y1="440" x2="108" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="130" y1="440" x2="122" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="144" y1="440" x2="136" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="158" y1="440" x2="150" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="172" y1="440" x2="164" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="186" y1="440" x2="178" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="200" y1="440" x2="192" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="214" y1="440" x2="206" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="228" y1="440" x2="220" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="242" y1="440" x2="234" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="256" y1="440" x2="248" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="270" y1="440" x2="262" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="284" y1="440" x2="276" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="298" y1="440" x2="290" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="312" y1="440" x2="304" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="326" y1="440" x2="318" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="340" y1="440" x2="332" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="354" y1="440" x2="346" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="368" y1="440" x2="360" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="382" y1="440" x2="374" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="396" y1="440" x2="388" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="410" y1="440" x2="402" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="424" y1="440" x2="416" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="438" y1="440" x2="430" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="452" y1="440" x2="444" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="466" y1="440" x2="458" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="480" y1="440" x2="472" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="494" y1="440" x2="486" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="508" y1="440" x2="500" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="522" y1="440" x2="514" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="536" y1="440" x2="528" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="550" y1="440" x2="542" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="564" y1="440" x2="556" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="578" y1="440" x2="570" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="592" y1="440" x2="584" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="606" y1="440" x2="598" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="620" y1="440" x2="612" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="634" y1="440" x2="626" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="648" y1="440" x2="640" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="662" y1="440" x2="654" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="676" y1="440" x2="668" y2="446" stroke="#1f1a14" stroke-width="0.4"/>
+  <path d="M 280.0 440 Q 280.0 140 348.0 90 L 372.0 90 Q 440.0 140 440.0 440 Z" fill="none" stroke="#1f1a14" stroke-width="1.2"/>
+  <path d="M 348.0 90 Q 360.0 50 372.0 90" fill="none" stroke="#1f1a14" stroke-width="0.9"/>
+  <line x1="360.0" y1="60" x2="360.0" y2="30" stroke="#1f1a14" stroke-width="0.8"/>
+  <line x1="336.0077003871676" y1="130" x2="383.9922996128324" y2="130" stroke="#1f1a14" stroke-width="0.3" opacity="0.55"/>
+  <line x1="327.1201936336657" y1="170" x2="392.8798063663343" y2="170" stroke="#1f1a14" stroke-width="0.3" opacity="0.55"/>
+  <line x1="319.1198480390949" y1="210" x2="400.8801519609051" y2="210" stroke="#1f1a14" stroke-width="0.3" opacity="0.55"/>
+  <line x1="311.64614561254734" y1="250" x2="408.35385438745266" y2="250" stroke="#1f1a14" stroke-width="0.3" opacity="0.55"/>
+  <line x1="304.5411255994458" y1="290" x2="415.4588744005542" y2="290" stroke="#1f1a14" stroke-width="0.3" opacity="0.55"/>
+  <line x1="297.71673488471276" y1="330" x2="422.28326511528724" y2="330" stroke="#1f1a14" stroke-width="0.3" opacity="0.55"/>
+  <line x1="291.11720833903473" y1="370" x2="428.88279166096527" y2="370" stroke="#1f1a14" stroke-width="0.3" opacity="0.55"/>
+  <line x1="284.70426317003563" y1="410" x2="435.29573682996437" y2="410" stroke="#1f1a14" stroke-width="0.3" opacity="0.55"/>
+  <path d="M 309.2100375632415 220 L 317.2100375632415 214 L 402.7899624367585 214 L 410.7899624367585 220" fill="none" stroke="#1f1a14" stroke-width="0.6"/>
+  <path d="M 294.8112931954698 300 L 302.8112931954698 294 L 417.1887068045302 294 L 425.1887068045302 300" fill="none" stroke="#1f1a14" stroke-width="0.6"/>
+  <path d="M 281.4977087595785 380 L 289.4977087595785 374 L 430.5022912404215 374 L 438.5022912404215 380" fill="none" stroke="#1f1a14" stroke-width="0.6"/>
+
+  <g stroke="#1f1a14" stroke-width="1" fill="none"
+     transform="translate(620,411.2)">
+    <circle cx="0" cy="3.5999999999999996" r="3.5999999999999996"/>
+    <line x1="0" y1="7.199999999999999" x2="0" y2="19.08"/>
+    <line x1="0" y1="13.68"
+          x2="-5.3999999999999995" y2="18.0"/>
+    <line x1="0" y1="13.68"
+          x2="5.3999999999999995" y2="18.0"/>
+    <line x1="0" y1="19.08"
+          x2="-5.3999999999999995" y2="28.799999999999997"/>
+    <line x1="0" y1="19.08"
+          x2="5.3999999999999995" y2="28.799999999999997"/>
+  </g>
+
+</svg>

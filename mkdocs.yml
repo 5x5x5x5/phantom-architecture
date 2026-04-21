@@ -1,0 +1,95 @@
+site_name: Phantom Architecture
+site_description: A catalog of twenty-five designs that never left the page.
+site_url: https://5x5x5x5.github.io/phantom-architecture/
+repo_url: https://github.com/5x5x5x5/phantom-architecture
+repo_name: 5x5x5x5/phantom-architecture
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - toc.follow
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: brown
+      accent: deep-orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: EB Garamond
+    code: IBM Plex Mono
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.smartsymbols
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra_css:
+  - stylesheets/archive.css
+
+nav:
+  - Front matter: index.md
+  - "I. Visions before modernity":
+      - "The Tower of Babel (1563)": visions-before-modernity/babel.md
+      - "Sforzinda (1457–1464)": visions-before-modernity/sforzinda.md
+      - "Da Vinci's Ideal City (1487)": visions-before-modernity/ideal-city.md
+  - "II. The Enlightenment":
+      - "Cenotaph for Newton (1784)": enlightenment/newton-cenotaph.md
+      - "Royal Saltworks at Chaux (1775)": enlightenment/chaux.md
+      - "Royal Palace at Westminster (1779)": enlightenment/soane-royal-palace.md
+  - "III. Into the industrial":
+      - "Città Nuova (1914)": industrial/citta-nuova.md
+      - "Hotel Attraction (1908)": industrial/hotel-attraction.md
+      - "Chicago Tribune Column (1922)": industrial/tribune-column.md
+  - "IV. Revolution":
+      - "Monument to the Third International (1919)": revolution/tatlin.md
+      - "The Metropolis of Tomorrow (1929)": revolution/ferriss.md
+  - "V. The modernist scale":
+      - "Plan Voisin (1925)": modernism/plan-voisin.md
+      - "Broadacre City (1932)": modernism/broadacre.md
+      - "The Illinois / Mile-High (1956)": modernism/mile-high.md
+  - "VI. Monuments of power":
+      - "Palace of the Soviets (1933)": power/palace-of-soviets.md
+      - "Volkshalle, Germania (1937)": power/volkshalle.md
+  - "VII. Post-war utopias":
+      - "Dome over Manhattan (1960)": utopias/dome-over-manhattan.md
+      - "Tokyo Bay Plan (1960)": utopias/tokyo-bay.md
+      - "Fun Palace (1961)": utopias/fun-palace.md
+      - "Walking City (1964)": utopias/walking-city.md
+      - "Plug-in City (1964)": utopias/plug-in-city.md
+      - "Continuous Monument (1969)": utopias/continuous-monument.md
+  - "VIII. Late phantoms":
+      - "Mega-City Pyramid (1989)": late/mega-city-pyramid.md
+      - "Cardiff Bay Opera House (1994)": late/cardiff-opera.md
+      - "Crystal Island, Moscow (2007)": late/crystal-island.md
+  - Method & sources: about.md
+  - Project ideas: ideas.md

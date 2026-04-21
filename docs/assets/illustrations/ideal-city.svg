@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 500" width="720" height="500">
+
+  <!-- paper -->
+  <rect x="0" y="0" width="720" height="500" fill="#f4ecd8"/>
+
+  <!-- margin rule -->
+  <rect x="18" y="18" width="684" height="464"
+        fill="none" stroke="#1f1a14" stroke-width="0.6" opacity="0.6"/>
+
+  <!-- top title strip -->
+  <text x="36" y="44" font-family="IBM Plex Mono, monospace"
+        font-size="11" fill="#1f1a14" letter-spacing="2">
+    IDEAL CITY — LEONARDO DA VINCI, C. 1487
+  </text>
+  <line x1="36" y1="54" x2="684" y2="54"
+        stroke="#1f1a14" stroke-width="0.5"/>
+
+  <!-- height caption -->
+  <text x="684" y="474" font-family="IBM Plex Mono, monospace"
+        font-size="9" fill="#8a7f67" text-anchor="end" letter-spacing="1.5">
+    DOUBLE-LEVEL SECTION
+  </text>
+
+  <!-- optional note at lower-left -->
+  <text x="36" y="474" font-family="IBM Plex Mono, monospace"
+        font-size="9" fill="#8a7f67" letter-spacing="1.5">
+    
+  </text>
+  <line x1="36" y1="430" x2="684" y2="430" stroke="#1f1a14" stroke-width="0.8"/>
+  <line x1="60" y1="430" x2="52" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="74" y1="430" x2="66" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="88" y1="430" x2="80" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="102" y1="430" x2="94" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="116" y1="430" x2="108" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="130" y1="430" x2="122" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="144" y1="430" x2="136" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="158" y1="430" x2="150" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="172" y1="430" x2="164" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="186" y1="430" x2="178" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="200" y1="430" x2="192" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="214" y1="430" x2="206" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="228" y1="430" x2="220" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="242" y1="430" x2="234" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="256" y1="430" x2="248" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="270" y1="430" x2="262" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="284" y1="430" x2="276" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="298" y1="430" x2="290" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="312" y1="430" x2="304" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="326" y1="430" x2="318" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="340" y1="430" x2="332" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="354" y1="430" x2="346" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="368" y1="430" x2="360" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="382" y1="430" x2="374" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="396" y1="430" x2="388" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="410" y1="430" x2="402" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="424" y1="430" x2="416" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="438" y1="430" x2="430" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="452" y1="430" x2="444" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="466" y1="430" x2="458" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="480" y1="430" x2="472" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="494" y1="430" x2="486" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="508" y1="430" x2="500" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="522" y1="430" x2="514" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="536" y1="430" x2="528" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="550" y1="430" x2="542" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="564" y1="430" x2="556" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="578" y1="430" x2="570" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="592" y1="430" x2="584" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="606" y1="430" x2="598" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="620" y1="430" x2="612" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="634" y1="430" x2="626" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="648" y1="430" x2="640" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="662" y1="430" x2="654" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <line x1="676" y1="430" x2="668" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
+  <path d="M 80 430 L 80 380 Q 110 345 140 380 L 140 430" fill="none" stroke="#1f1a14" stroke-width="1"/>
+  <path d="M 85 300 L 85 260 Q 110 240 135 260 L 135 300" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
+  <path d="M 155 430 L 155 380 Q 185 345 215 380 L 215 430" fill="none" stroke="#1f1a14" stroke-width="1"/>
+  <path d="M 160 300 L 160 260 Q 185 240 210 260 L 210 300" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
+  <path d="M 230 430 L 230 380 Q 260 345 290 380 L 290 430" fill="none" stroke="#1f1a14" stroke-width="1"/>
+  <path d="M 235 300 L 235 260 Q 260 240 285 260 L 285 300" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
+  <path d="M 305 430 L 305 380 Q 335 345 365 380 L 365 430" fill="none" stroke="#1f1a14" stroke-width="1"/>
+  <path d="M 310 300 L 310 260 Q 335 240 360 260 L 360 300" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
+  <path d="M 380 430 L 380 380 Q 410 345 440 380 L 440 430" fill="none" stroke="#1f1a14" stroke-width="1"/>
+  <path d="M 385 300 L 385 260 Q 410 240 435 260 L 435 300" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
+  <path d="M 455 430 L 455 380 Q 485 345 515 380 L 515 430" fill="none" stroke="#1f1a14" stroke-width="1"/>
+  <path d="M 460 300 L 460 260 Q 485 240 510 260 L 510 300" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
+  <path d="M 530 430 L 530 380 Q 560 345 590 380 L 590 430" fill="none" stroke="#1f1a14" stroke-width="1"/>
+  <path d="M 535 300 L 535 260 Q 560 240 585 260 L 585 300" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
+  <path d="M 605 430 L 605 380 Q 635 345 665 380 L 665 430" fill="none" stroke="#1f1a14" stroke-width="1"/>
+  <path d="M 610 300 L 610 260 Q 635 240 660 260 L 660 300" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
+  <line x1="50" y1="300" x2="670" y2="300" stroke="#1f1a14" stroke-width="1"/>
+  <line x1="50" y1="230" x2="670" y2="230" stroke="#1f1a14" stroke-width="0.8"/>
+
+  <g stroke="#1f1a14" stroke-width="1" fill="none"
+     transform="translate(660,406.0)">
+    <circle cx="0" cy="3.0" r="3.0"/>
+    <line x1="0" y1="6.0" x2="0" y2="15.9"/>
+    <line x1="0" y1="11.399999999999999"
+          x2="-4.5" y2="15.0"/>
+    <line x1="0" y1="11.399999999999999"
+          x2="4.5" y2="15.0"/>
+    <line x1="0" y1="15.9"
+          x2="-4.5" y2="24.0"/>
+    <line x1="0" y1="15.9"
+          x2="4.5" y2="24.0"/>
+  </g>
+
+</svg>

@@ -1,0 +1,12 @@
+[project]
+name = "phantom-architecture"
+version = "0.1.0"
+description = "A catalog of unbuilt buildings — visions that never left the page."
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "mkdocs-material>=9.5",
+    "pymdown-extensions>=10.7",
+]
