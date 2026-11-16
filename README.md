@@ -2,7 +2,7 @@
 
 A catalog of unbuilt buildings — twenty-five designs, across five centuries, that never left the page. A project inspired by *Phantom Architecture* (Wilkinson, 2017).
 
-**Site:** https://5x5x5x5.github.io/phantom-architecture/
+**Site:** https://danielsiegle.com/phantom-architecture/
 
 ## Local development
 
