@@ -1,109 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 500" width="720" height="500">
-
-  <!-- paper -->
-  <rect x="0" y="0" width="720" height="500" fill="#f4ecd8"/>
-
-  <!-- margin rule -->
-  <rect x="18" y="18" width="684" height="464"
-        fill="none" stroke="#1f1a14" stroke-width="0.6" opacity="0.6"/>
-
-  <!-- top title strip -->
-  <text x="36" y="44" font-family="IBM Plex Mono, monospace"
-        font-size="11" fill="#1f1a14" letter-spacing="2">
-    IDEAL CITY — LEONARDO DA VINCI, C. 1487
-  </text>
-  <line x1="36" y1="54" x2="684" y2="54"
-        stroke="#1f1a14" stroke-width="0.5"/>
-
-  <!-- height caption -->
-  <text x="684" y="474" font-family="IBM Plex Mono, monospace"
-        font-size="9" fill="#8a7f67" text-anchor="end" letter-spacing="1.5">
-    DOUBLE-LEVEL SECTION
-  </text>
-
-  <!-- optional note at lower-left -->
-  <text x="36" y="474" font-family="IBM Plex Mono, monospace"
-        font-size="9" fill="#8a7f67" letter-spacing="1.5">
-    
-  </text>
-  <line x1="36" y1="430" x2="684" y2="430" stroke="#1f1a14" stroke-width="0.8"/>
-  <line x1="60" y1="430" x2="52" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="74" y1="430" x2="66" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="88" y1="430" x2="80" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="102" y1="430" x2="94" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="116" y1="430" x2="108" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="130" y1="430" x2="122" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="144" y1="430" x2="136" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="158" y1="430" x2="150" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="172" y1="430" x2="164" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="186" y1="430" x2="178" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="200" y1="430" x2="192" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="214" y1="430" x2="206" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="228" y1="430" x2="220" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="242" y1="430" x2="234" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="256" y1="430" x2="248" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="270" y1="430" x2="262" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="284" y1="430" x2="276" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="298" y1="430" x2="290" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="312" y1="430" x2="304" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="326" y1="430" x2="318" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="340" y1="430" x2="332" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="354" y1="430" x2="346" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="368" y1="430" x2="360" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="382" y1="430" x2="374" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="396" y1="430" x2="388" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="410" y1="430" x2="402" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="424" y1="430" x2="416" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="438" y1="430" x2="430" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="452" y1="430" x2="444" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="466" y1="430" x2="458" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="480" y1="430" x2="472" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="494" y1="430" x2="486" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="508" y1="430" x2="500" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="522" y1="430" x2="514" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="536" y1="430" x2="528" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="550" y1="430" x2="542" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="564" y1="430" x2="556" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="578" y1="430" x2="570" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="592" y1="430" x2="584" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="606" y1="430" x2="598" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="620" y1="430" x2="612" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="634" y1="430" x2="626" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="648" y1="430" x2="640" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="662" y1="430" x2="654" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <line x1="676" y1="430" x2="668" y2="436" stroke="#1f1a14" stroke-width="0.4"/>
-  <path d="M 80 430 L 80 380 Q 110 345 140 380 L 140 430" fill="none" stroke="#1f1a14" stroke-width="1"/>
-  <path d="M 85 300 L 85 260 Q 110 240 135 260 L 135 300" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
-  <path d="M 155 430 L 155 380 Q 185 345 215 380 L 215 430" fill="none" stroke="#1f1a14" stroke-width="1"/>
-  <path d="M 160 300 L 160 260 Q 185 240 210 260 L 210 300" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
-  <path d="M 230 430 L 230 380 Q 260 345 290 380 L 290 430" fill="none" stroke="#1f1a14" stroke-width="1"/>
-  <path d="M 235 300 L 235 260 Q 260 240 285 260 L 285 300" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
-  <path d="M 305 430 L 305 380 Q 335 345 365 380 L 365 430" fill="none" stroke="#1f1a14" stroke-width="1"/>
-  <path d="M 310 300 L 310 260 Q 335 240 360 260 L 360 300" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
-  <path d="M 380 430 L 380 380 Q 410 345 440 380 L 440 430" fill="none" stroke="#1f1a14" stroke-width="1"/>
-  <path d="M 385 300 L 385 260 Q 410 240 435 260 L 435 300" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
-  <path d="M 455 430 L 455 380 Q 485 345 515 380 L 515 430" fill="none" stroke="#1f1a14" stroke-width="1"/>
-  <path d="M 460 300 L 460 260 Q 485 240 510 260 L 510 300" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
-  <path d="M 530 430 L 530 380 Q 560 345 590 380 L 590 430" fill="none" stroke="#1f1a14" stroke-width="1"/>
-  <path d="M 535 300 L 535 260 Q 560 240 585 260 L 585 300" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
-  <path d="M 605 430 L 605 380 Q 635 345 665 380 L 665 430" fill="none" stroke="#1f1a14" stroke-width="1"/>
-  <path d="M 610 300 L 610 260 Q 635 240 660 260 L 660 300" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
-  <line x1="50" y1="300" x2="670" y2="300" stroke="#1f1a14" stroke-width="1"/>
-  <line x1="50" y1="230" x2="670" y2="230" stroke="#1f1a14" stroke-width="0.8"/>
-
-  <g stroke="#1f1a14" stroke-width="1" fill="none"
-     transform="translate(660,406.0)">
-    <circle cx="0" cy="3.0" r="3.0"/>
-    <line x1="0" y1="6.0" x2="0" y2="15.9"/>
-    <line x1="0" y1="11.399999999999999"
-          x2="-4.5" y2="15.0"/>
-    <line x1="0" y1="11.399999999999999"
-          x2="4.5" y2="15.0"/>
-    <line x1="0" y1="15.9"
-          x2="-4.5" y2="24.0"/>
-    <line x1="0" y1="15.9"
-          x2="4.5" y2="24.0"/>
-  </g>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 500" width="720" height="500" stroke-linejoin="round" stroke-linecap="round">
+<rect x="0" y="0" width="720" height="500" fill="#f4ecd8" stroke="none"/>
+<line x1="112" y1="404" x2="327" y2="404" fill="none" stroke="#1f1a14" stroke-width="0.9"/>
+<path d="M124,404l-7,5.5M137,404l-7,5.5M150,404l-7,5.5M163,404l-7,5.5M176,404l-7,5.5M189,404l-7,5.5M202,404l-7,5.5M215,404l-7,5.5M228,404l-7,5.5M241,404l-7,5.5M254,404l-7,5.5M267,404l-7,5.5M280,404l-7,5.5M293,404l-7,5.5M306,404l-7,5.5M319,404l-7,5.5" fill="none" stroke="#1f1a14" stroke-width="0.4" opacity="0.8"/>
+<line x1="393" y1="404" x2="684" y2="404" fill="none" stroke="#1f1a14" stroke-width="0.9"/>
+<path d="M405,404l-7,5.5M418,404l-7,5.5M431,404l-7,5.5M444,404l-7,5.5M457,404l-7,5.5M470,404l-7,5.5M483,404l-7,5.5M496,404l-7,5.5M509,404l-7,5.5M522,404l-7,5.5M535,404l-7,5.5M548,404l-7,5.5M561,404l-7,5.5M574,404l-7,5.5M587,404l-7,5.5M600,404l-7,5.5M613,404l-7,5.5M626,404l-7,5.5M639,404l-7,5.5M652,404l-7,5.5M665,404l-7,5.5M678,404l-7,5.5" fill="none" stroke="#1f1a14" stroke-width="0.4" opacity="0.8"/>
+<path d="M271,318.0V288.0a13,13 0 0 1 26,0V318.0" fill="none" stroke="#8a7f67" stroke-width="0.5"/>
+<rect x="279" y="250" width="10" height="16" fill="none" stroke="#8a7f67" stroke-width="0.5"/>
+<rect x="279" y="214" width="10" height="16" fill="none" stroke="#8a7f67" stroke-width="0.5"/>
+<path d="M309,318.0V288.0a13,13 0 0 1 26,0V318.0" fill="none" stroke="#8a7f67" stroke-width="0.5"/>
+<rect x="317" y="250" width="10" height="16" fill="none" stroke="#8a7f67" stroke-width="0.5"/>
+<rect x="317" y="214" width="10" height="16" fill="none" stroke="#8a7f67" stroke-width="0.5"/>
+<path d="M347,318.0V288.0a13,13 0 0 1 26,0V318.0" fill="none" stroke="#8a7f67" stroke-width="0.5"/>
+<rect x="355" y="250" width="10" height="16" fill="none" stroke="#8a7f67" stroke-width="0.5"/>
+<rect x="355" y="214" width="10" height="16" fill="none" stroke="#8a7f67" stroke-width="0.5"/>
+<path d="M385,318.0V288.0a13,13 0 0 1 26,0V318.0" fill="none" stroke="#8a7f67" stroke-width="0.5"/>
+<rect x="393" y="250" width="10" height="16" fill="none" stroke="#8a7f67" stroke-width="0.5"/>
+<rect x="393" y="214" width="10" height="16" fill="none" stroke="#8a7f67" stroke-width="0.5"/>
+<path d="M423,318.0V288.0a13,13 0 0 1 26,0V318.0" fill="none" stroke="#8a7f67" stroke-width="0.5"/>
+<rect x="431" y="250" width="10" height="16" fill="none" stroke="#8a7f67" stroke-width="0.5"/>
+<rect x="431" y="214" width="10" height="16" fill="none" stroke="#8a7f67" stroke-width="0.5"/>
+<line x1="270" y1="190" x2="450" y2="190" fill="none" stroke="#8a7f67" stroke-width="0.5"/>
+<line x1="270" y1="268" x2="450" y2="268" fill="none" stroke="#8a7f67" stroke-width="0.5"/>
+<polygon points="124,318 596,318 596,404 124,404" fill="#f4ecd8" stroke="none"/>
+<clipPath id="h0"><polygon points="124,318 596,318 596,404 124,404"/></clipPath>
+<path d="M19.3,361L360,20.3M21.5,363.1L362.1,22.5M23.6,365.2L364.2,24.6M25.7,367.4L366.4,26.7M27.8,369.5L368.5,28.8M29.9,371.6L370.6,30.9M32.1,373.7L372.7,33.1M34.2,375.8L374.8,35.2M36.3,378L377,37.3M38.4,380.1L379.1,39.4M40.5,382.2L381.2,41.5M42.7,384.3L383.3,43.7M44.8,386.5L385.5,45.8M46.9,388.6L387.6,47.9M49,390.7L389.7,50M51.2,392.8L391.8,52.2M53.3,394.9L393.9,54.3M55.4,397.1L396.1,56.4M57.5,399.2L398.2,58.5M59.6,401.3L400.3,60.6M61.8,403.4L402.4,62.8M63.9,405.5L404.5,64.9M66,407.7L406.7,67M68.1,409.8L408.8,69.1M70.2,411.9L410.9,71.2M72.4,414L413,73.4M74.5,416.2L415.2,75.5M76.6,418.3L417.3,77.6M78.7,420.4L419.4,79.7M80.9,422.5L421.5,81.9M83,424.6L423.6,84M85.1,426.8L425.8,86.1M87.2,428.9L427.9,88.2M89.3,431L430,90.3M91.5,433.1L432.1,92.5M93.6,435.2L434.2,94.6M95.7,437.4L436.4,96.7M97.8,439.5L438.5,98.8M99.9,441.6L440.6,100.9M102.1,443.7L442.7,103.1M104.2,445.9L444.9,105.2M106.3,448L447,107.3M108.4,450.1L449.1,109.4M110.6,452.2L451.2,111.6M112.7,454.3L453.3,113.7M114.8,456.5L455.5,115.8M116.9,458.6L457.6,117.9M119,460.7L459.7,120M121.2,462.8L461.8,122.2M123.3,464.9L463.9,124.3M125.4,467.1L466.1,126.4M127.5,469.2L468.2,128.5M129.6,471.3L470.3,130.6M131.8,473.4L472.4,132.8M133.9,475.6L474.6,134.9M136,477.7L476.7,137M138.1,479.8L478.8,139.1M140.3,481.9L480.9,141.3M142.4,484L483,143.4M144.5,486.2L485.2,145.5M146.6,488.3L487.3,147.6M148.7,490.4L489.4,149.7M150.9,492.5L491.5,151.9M153,494.6L493.6,154M155.1,496.8L495.8,156.1M157.2,498.9L497.9,158.2M159.3,501L500,160.3M161.5,503.1L502.1,162.5M163.6,505.2L504.2,164.6M165.7,507.4L506.4,166.7M167.8,509.5L508.5,168.8M170,511.6L510.6,171M172.1,513.7L512.7,173.1M174.2,515.9L514.9,175.2M176.3,518L517,177.3M178.4,520.1L519.1,179.4M180.6,522.2L521.2,181.6M182.7,524.3L523.3,183.7M184.8,526.5L525.5,185.8M186.9,528.6L527.6,187.9M189,530.7L529.7,190M191.2,532.8L531.8,192.2M193.3,534.9L533.9,194.3M195.4,537.1L536.1,196.4M197.5,539.2L538.2,198.5M199.6,541.3L540.3,200.6M201.8,543.4L542.4,202.8M203.9,545.6L544.6,204.9M206,547.7L546.7,207M208.1,549.8L548.8,209.1M210.3,551.9L550.9,211.3M212.4,554L553,213.4M214.5,556.2L555.2,215.5M216.6,558.3L557.3,217.6M218.7,560.4L559.4,219.7M220.9,562.5L561.5,221.9M223,564.6L563.6,224M225.1,566.8L565.8,226.1M227.2,568.9L567.9,228.2M229.3,571L570,230.3M231.5,573.1L572.1,232.5M233.6,575.3L574.3,234.6M235.7,577.4L576.4,236.7M237.8,579.5L578.5,238.8M240,581.6L580.6,241M242.1,583.7L582.7,243.1M244.2,585.9L584.9,245.2M246.3,588L587,247.3M248.4,590.1L589.1,249.4M250.6,592.2L591.2,251.6M252.7,594.3L593.3,253.7M254.8,596.5L595.5,255.8M256.9,598.6L597.6,257.9M259,600.7L599.7,260M261.2,602.8L601.8,262.2M263.3,605L604,264.3M265.4,607.1L606.1,266.4M267.5,609.2L608.2,268.5M269.7,611.3L610.3,270.7M271.8,613.4L612.4,272.8M273.9,615.6L614.6,274.9M276,617.7L616.7,277M278.1,619.8L618.8,279.1M280.3,621.9L620.9,281.3M282.4,624L623,283.4M284.5,626.2L625.2,285.5M286.6,628.3L627.3,287.6M288.7,630.4L629.4,289.7M290.9,632.5L631.5,291.9M293,634.7L633.7,294M295.1,636.8L635.8,296.1M297.2,638.9L637.9,298.2M299.4,641L640,300.4M301.5,643.1L642.1,302.5M303.6,645.3L644.3,304.6M305.7,647.4L646.4,306.7M307.8,649.5L648.5,308.8M310,651.6L650.6,311M312.1,653.7L652.7,313.1M314.2,655.9L654.9,315.2M316.3,658L657,317.3M318.4,660.1L659.1,319.4M320.6,662.2L661.2,321.6M322.7,664.3L663.3,323.7M324.8,666.5L665.5,325.8M326.9,668.6L667.6,327.9M329,670.7L669.7,330M331.2,672.8L671.8,332.2M333.3,675L674,334.3M335.4,677.1L676.1,336.4M337.5,679.2L678.2,338.5M339.7,681.3L680.3,340.7M341.8,683.4L682.4,342.8M343.9,685.6L684.6,344.9M346,687.7L686.7,347M348.1,689.8L688.8,349.1M350.3,691.9L690.9,351.3M352.4,694L693,353.4M354.5,696.2L695.2,355.5M356.6,698.3L697.3,357.6M358.7,700.4L699.4,359.7" clip-path="url(#h0)" fill="none" stroke="#1f1a14" stroke-width="0.4" opacity="0.7"/>
+<polygon points="124,318 596,318 596,404 124,404" fill="none" stroke="#1f1a14" stroke-width="1.4"/>
+<path d="M136.0,404.0V372A29.0,29.0 0 0 1 194,372V404.0z" fill="#f4ecd8" stroke="#1f1a14" stroke-width="1.2"/>
+<path d="M206,404.0V372A29.0,29.0 0 0 1 264,372V404.0z" fill="#f4ecd8" stroke="#1f1a14" stroke-width="1.2"/>
+<path d="M276,404.0V372A19.0,19.0 0 0 1 314,372V404.0z" fill="#f4ecd8" stroke="#1f1a14" stroke-width="1.2"/>
+<path d="M326,404.0V372A34.0,34.0 0 0 1 394,372V404.0z" fill="#f4ecd8" stroke="#1f1a14" stroke-width="1.2"/>
+<path d="M406,404.0V372A19.0,19.0 0 0 1 444,372V404.0z" fill="#f4ecd8" stroke="#1f1a14" stroke-width="1.2"/>
+<path d="M456,404.0V372A29.0,29.0 0 0 1 514,372V404.0z" fill="#f4ecd8" stroke="#1f1a14" stroke-width="1.2"/>
+<path d="M526,404.0V372A29.0,29.0 0 0 1 584,372V404.0z" fill="#f4ecd8" stroke="#1f1a14" stroke-width="1.2"/>
+<rect x="327" y="404" width="66" height="26" fill="#f4ecd8" stroke="none"/>
+<path d="M327,404.0v26h66v-26" fill="none" stroke="#1f1a14" stroke-width="1.2"/>
+<line x1="327" y1="412" x2="393" y2="412" fill="none" stroke="#1f1a14" stroke-width="0.7"/>
+<path d="M333,417h10M352,420h12M372,417h9M340,424h8M366,425h10" fill="none" stroke="#8a7f67" stroke-width="0.4"/>
+<path d="M338,412q22,9 44,0z" fill="#f4ecd8" stroke="#1f1a14" stroke-width="0.8"/>
+<circle cx="371" cy="394.5" r="1.5" fill="#1f1a14" stroke="none"/>
+<polygon points="368.8,396.4 373.2,396.4 372.5,402.9 372.7,410 371.3,410 371,403.5 370.7,410 369.3,410 369.5,402.9" fill="#1f1a14" stroke="none"/>
+<line x1="378" y1="392" x2="388" y2="426" fill="none" stroke="#1f1a14" stroke-width="0.6"/>
+<line x1="128" y1="318" x2="128" y2="178" fill="none" stroke="#1f1a14" stroke-width="3"/>
+<line x1="226" y1="318" x2="226" y2="178" fill="none" stroke="#1f1a14" stroke-width="1.6"/>
+<line x1="266" y1="264" x2="266" y2="178" fill="none" stroke="#1f1a14" stroke-width="3"/>
+<line x1="266" y1="318" x2="266" y2="270" fill="none" stroke="#1f1a14" stroke-width="2.4"/>
+<path d="M226,284.0A20,20 0 0 1 266,284.0" fill="none" stroke="#1f1a14" stroke-width="1"/>
+<rect x="262" y="264" width="8" height="6" fill="#1f1a14" stroke="#1f1a14" stroke-width="0.8"/>
+<polygon points="118,178 197,142 276,178" fill="#f4ecd8" stroke="#1f1a14" stroke-width="1.5"/>
+<clipPath id="h1"><polygon points="118,178 197,142 276,178"/></clipPath>
+<path d="M115,78L279,78M115,81.5L279,81.5M115,85L279,85M115,88.5L279,88.5M115,92L279,92M115,95.5L279,95.5M115,99L279,99M115,102.5L279,102.5M115,106L279,106M115,109.5L279,109.5M115,113L279,113M115,116.5L279,116.5M115,120L279,120M115,123.5L279,123.5M115,127L279,127M115,130.5L279,130.5M115,134L279,134M115,137.5L279,137.5M115,141L279,141M115,144.5L279,144.5M115,148L279,148M115,151.5L279,151.5M115,155L279,155M115,158.5L279,158.5M115,162L279,162M115,165.5L279,165.5M115,169L279,169M115,172.5L279,172.5M115,176L279,176M115,179.5L279,179.5M115,183L279,183M115,186.5L279,186.5M115,190L279,190M115,193.5L279,193.5M115,197L279,197M115,200.5L279,200.5M115,204L279,204M115,207.5L279,207.5M115,211L279,211M115,214.5L279,214.5M115,218L279,218M115,221.5L279,221.5M115,225L279,225M115,228.5L279,228.5M115,232L279,232M115,235.5L279,235.5M115,239L279,239" clip-path="url(#h1)" fill="none" stroke="#1f1a14" stroke-width="0.4" opacity="0.35"/>
+<line x1="128" y1="264" x2="266" y2="264" fill="none" stroke="#1f1a14" stroke-width="1.4"/>
+<line x1="128" y1="221" x2="266" y2="221" fill="none" stroke="#1f1a14" stroke-width="1.4"/>
+<circle cx="246" cy="302.5" r="1.5" fill="#1f1a14" stroke="none"/>
+<polygon points="243.8,304.4 248.2,304.4 247.5,310.9 247.7,318 246.3,318 246,311.5 245.7,318 244.3,318 244.5,310.9" fill="#1f1a14" stroke="none"/>
+<line x1="592" y1="318" x2="592" y2="178" fill="none" stroke="#1f1a14" stroke-width="3"/>
+<line x1="494" y1="318" x2="494" y2="178" fill="none" stroke="#1f1a14" stroke-width="1.6"/>
+<line x1="454" y1="264" x2="454" y2="178" fill="none" stroke="#1f1a14" stroke-width="3"/>
+<line x1="454" y1="318" x2="454" y2="270" fill="none" stroke="#1f1a14" stroke-width="2.4"/>
+<path d="M494,284.0A20,20 0 0 0 454,284.0" fill="none" stroke="#1f1a14" stroke-width="1"/>
+<rect x="450" y="264" width="8" height="6" fill="#1f1a14" stroke="#1f1a14" stroke-width="0.8"/>
+<polygon points="602,178 523,142 444,178" fill="#f4ecd8" stroke="#1f1a14" stroke-width="1.5"/>
+<clipPath id="h2"><polygon points="602,178 523,142 444,178"/></clipPath>
+<path d="M441,78L605,78M441,81.5L605,81.5M441,85L605,85M441,88.5L605,88.5M441,92L605,92M441,95.5L605,95.5M441,99L605,99M441,102.5L605,102.5M441,106L605,106M441,109.5L605,109.5M441,113L605,113M441,116.5L605,116.5M441,120L605,120M441,123.5L605,123.5M441,127L605,127M441,130.5L605,130.5M441,134L605,134M441,137.5L605,137.5M441,141L605,141M441,144.5L605,144.5M441,148L605,148M441,151.5L605,151.5M441,155L605,155M441,158.5L605,158.5M441,162L605,162M441,165.5L605,165.5M441,169L605,169M441,172.5L605,172.5M441,176L605,176M441,179.5L605,179.5M441,183L605,183M441,186.5L605,186.5M441,190L605,190M441,193.5L605,193.5M441,197L605,197M441,200.5L605,200.5M441,204L605,204M441,207.5L605,207.5M441,211L605,211M441,214.5L605,214.5M441,218L605,218M441,221.5L605,221.5M441,225L605,225M441,228.5L605,228.5M441,232L605,232M441,235.5L605,235.5M441,239L605,239" clip-path="url(#h2)" fill="none" stroke="#1f1a14" stroke-width="0.4" opacity="0.35"/>
+<line x1="592" y1="264" x2="454" y2="264" fill="none" stroke="#1f1a14" stroke-width="1.4"/>
+<line x1="592" y1="221" x2="454" y2="221" fill="none" stroke="#1f1a14" stroke-width="1.4"/>
+<circle cx="474" cy="302.5" r="1.5" fill="#1f1a14" stroke="none"/>
+<polygon points="471.8,304.4 476.2,304.4 475.5,310.9 475.7,318 474.3,318 474,311.5 473.7,318 472.3,318 472.5,310.9" fill="#1f1a14" stroke="none"/>
+<circle cx="296" cy="302.5" r="1.5" fill="#1f1a14" stroke="none"/>
+<polygon points="293.8,304.4 298.2,304.4 297.5,310.9 297.7,318 296.3,318 296,311.5 295.7,318 294.3,318 294.5,310.9" fill="#1f1a14" stroke="none"/>
+<circle cx="306" cy="302.5" r="1.5" fill="#1f1a14" stroke="none"/>
+<polygon points="303.8,304.4 308.2,304.4 307.5,310.9 307.7,318 306.3,318 306,311.5 305.7,318 304.3,318 304.5,310.9" fill="#1f1a14" stroke="none"/>
+<circle cx="372" cy="302.5" r="1.5" fill="#1f1a14" stroke="none"/>
+<polygon points="369.8,304.4 374.2,304.4 373.5,310.9 373.7,318 372.3,318 372,311.5 371.7,318 370.3,318 370.5,310.9" fill="#1f1a14" stroke="none"/>
+<circle cx="418" cy="302.5" r="1.5" fill="#1f1a14" stroke="none"/>
+<polygon points="415.8,304.4 420.2,304.4 419.5,310.9 419.7,318 418.3,318 418,311.5 417.7,318 416.3,318 416.5,310.9" fill="#1f1a14" stroke="none"/>
+<rect x="150" y="384" width="30" height="9" fill="#f4ecd8" stroke="#1f1a14" stroke-width="0.9"/>
+<circle cx="158" cy="397" r="6.5" fill="#f4ecd8" stroke="#1f1a14" stroke-width="0.9"/>
+<line x1="180" y1="388" x2="194" y2="388" fill="none" stroke="#1f1a14" stroke-width="0.8"/>
+<circle cx="188" cy="388.5" r="1.5" fill="#1f1a14" stroke="none"/>
+<polygon points="185.8,390.4 190.2,390.4 189.5,396.9 189.7,404 188.3,404 188,397.5 187.7,404 186.3,404 186.5,396.9" fill="#1f1a14" stroke="none"/>
+<circle cx="476" cy="398" r="5.5" fill="#f4ecd8" stroke="#1f1a14" stroke-width="0.8"/>
+<circle cx="488" cy="398" r="5.5" fill="#f4ecd8" stroke="#1f1a14" stroke-width="0.8"/>
+<circle cx="482" cy="388" r="5.5" fill="#f4ecd8" stroke="#1f1a14" stroke-width="0.8"/>
+<circle cx="502" cy="388.5" r="1.5" fill="#1f1a14" stroke="none"/>
+<polygon points="499.8,390.4 504.2,390.4 503.5,396.9 503.7,404 502.3,404 502,397.5 501.7,404 500.3,404 500.5,396.9" fill="#1f1a14" stroke="none"/>
+<circle cx="560" cy="388.5" r="1.5" fill="#1f1a14" stroke="none"/>
+<polygon points="557.8,390.4 562.2,390.4 561.5,396.9 561.7,404 560.3,404 560,397.5 559.7,404 558.3,404 558.5,396.9" fill="#1f1a14" stroke="none"/>
+<line x1="88" y1="318" x2="122" y2="318" fill="none" stroke="#8a7f67" stroke-width="0.5"/>
+<text x="40" y="313" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="7" fill="#8a7f67" text-anchor="start" letter-spacing="1">UPPER LEVEL</text>
+<text x="40" y="327" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="7" fill="#8a7f67" text-anchor="start" letter-spacing="1">ON FOOT</text>
+<line x1="88" y1="404" x2="122" y2="404" fill="none" stroke="#8a7f67" stroke-width="0.5"/>
+<text x="40" y="399" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="7" fill="#8a7f67" text-anchor="start" letter-spacing="1">LOWER LEVEL</text>
+<text x="40" y="413" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="7" fill="#8a7f67" text-anchor="start" letter-spacing="1">CARTS, TRADE</text>
+<line x1="407" y1="443.5" x2="388" y2="424" fill="none" stroke="#8a7f67" stroke-width="0.4"/>
+<circle cx="388" cy="424" r="1.1" fill="#8a7f67" stroke="none"/>
+<text x="410" y="446" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="6.5" fill="#8a7f67" text-anchor="start" letter-spacing="1">SERVICE CANAL</text>
+<rect x="18" y="18" width="684" height="464" fill="none" stroke="#1f1a14" stroke-width="0.6" opacity="0.6"/>
+<text x="36" y="44" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="11" fill="#1f1a14" text-anchor="start" letter-spacing="2">IDEAL CITY — LEONARDO DA VINCI, C. 1487</text>
+<line x1="36" y1="54" x2="684" y2="54" fill="none" stroke="#1f1a14" stroke-width="0.5"/>
+<text x="684" y="474" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9" fill="#8a7f67" text-anchor="end" letter-spacing="1">CROSS-SECTION</text>
+<text x="36" y="474" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="9" fill="#8a7f67" text-anchor="start" letter-spacing="1">AFTER PARIS MS B</text>
 </svg>
