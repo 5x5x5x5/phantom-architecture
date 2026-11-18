@@ -17,8 +17,8 @@ status: "unbuilt — unequivocally refused"
 </dl>
 
 <figure>
-  <img src="../../assets/illustrations/plan-voisin.svg" alt="schematic elevation of Plan Voisin towers" />
-  <figcaption>Eighteen identical cruciform towers; the plan shows six in elevation for clarity</figcaption>
+  <img src="../../assets/illustrations/plan-voisin.svg" alt="schematic elevation and key plan of the Plan Voisin towers" />
+  <figcaption>Three of the eighteen cruciform towers at their true spacing, with Notre-Dame and the Eiffel Tower for scale; the full grid in the key plan</figcaption>
 </figure>
 
 ## What it was

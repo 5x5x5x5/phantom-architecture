@@ -43,7 +43,7 @@ Where dimensions are cited ("450 m," "2,004 m," "528 floors"), the figures are t
 
 ## Illustrations
 
-The SVG illustrations are generated programmatically from `scripts/generate_illustrations.py`. Each is a silhouette in a unified blueprint style: warm cream paper, near-black ink, a ground line, a 1.8-metre human figure for scale where one is useful. The style is inspired by the line-drawings of Robert Venturi and Denise Scott Brown, and by the plates in Ackerman's *Palladio* — clean, diagrammatic, willing to sacrifice accuracy for legibility.
+The SVG illustrations are generated programmatically from `scripts/generate_illustrations.py`. The drawings live in `scripts/illustrations/`, one module per part of the catalog. Each is a line drawing in a unified blueprint style: warm cream paper, near-black ink, hatching for shade. Scale is given by a 1.8-metre human figure where one would be visible, and otherwise by a familiar building drawn at the same scale and shown at its present-day height (the Eiffel Tower at 330 metres, for instance). The style is inspired by the line-drawings of Robert Venturi and Denise Scott Brown, and by the plates in Ackerman's *Palladio* — clean, diagrammatic, willing to sacrifice accuracy for legibility.
 
 Where the original architect's drawings are famous in their own right (Bruegel's painting, Boullée's plate, Ferriss's charcoals, Hadid's paintings), the reader should seek out those sources. Wikipedia's Commons has public-domain reproductions of most.
 

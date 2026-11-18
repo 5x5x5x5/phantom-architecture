@@ -18,7 +18,7 @@ status: "unbuilt — commission quietly lapsed"
 
 <figure>
   <img src="../../assets/illustrations/hotel-attraction.svg" alt="schematic elevation of Gaudí's Hotel Attraction" />
-  <figcaption>Parabolic bullet-form with projecting terraces and a parabolic crown</figcaption>
+  <figcaption>A cluster of parabolic towers about a taller central one, with the Flatiron for scale</figcaption>
 </figure>
 
 ## What it was

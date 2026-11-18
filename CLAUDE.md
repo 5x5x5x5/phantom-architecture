@@ -22,7 +22,9 @@ designs that were drawn, modeled, or otherwise imagined but never built
       late/                             Part VIII (3 entries)
       assets/illustrations/             SVGs, one per entry
       stylesheets/archive.css           Custom CSS (paper/blueprint palette)
-    scripts/generate_illustrations.py   Deterministic SVG generator
+    scripts/generate_illustrations.py   Deterministic SVG generator (entry point)
+    scripts/illustrations/              One module of drawings per part, plus
+                                        kit.py (shared primitives, scale references)
 
 ## Voice
 

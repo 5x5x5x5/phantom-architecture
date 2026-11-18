@@ -17,8 +17,8 @@ status: "unbuilt — photomontage and text, intentionally unrealisable"
 </dl>
 
 <figure>
-  <img src="../../assets/illustrations/continuous-monument.svg" alt="schematic elevation of the Continuous Monument" />
-  <figcaption>A gridded monolithic bar extending past the edge of the drawing</figcaption>
+  <img src="../../assets/illustrations/continuous-monument.svg" alt="schematic perspective of the Continuous Monument" />
+  <figcaption>A gridded monolithic bar in perspective, running past the edge of the drawing</figcaption>
 </figure>
 
 ## What it was

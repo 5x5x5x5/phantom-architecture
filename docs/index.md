@@ -69,7 +69,7 @@ The project is inspired by Philip Wilkinson's *Phantom Architecture* (2017). The
 
 ## A note on illustrations
 
-Every entry carries a schematic elevation rendered to SVG in a unified blueprint style. These are not photographic reconstructions. They are silhouettes — the essential form, a ground line, a 1.8-metre human figure for scale. Where the original drawing is precise (Boullée), the SVG approximates it; where the original is a collage or a mood-piece (Archigram, Ferriss), the SVG imposes more structure than the source strictly permits.
+Every entry carries a schematic drawing rendered to SVG in a unified blueprint style: an elevation for most, a plan or section where that says more. These are not photographic reconstructions. Each gives the essential form and something to measure it by — a human figure where one would be visible, otherwise a familiar building drawn at the same scale. Where the original drawing is precise (Boullée), the SVG approximates it; where the original is a collage or a mood-piece (Archigram, Ferriss), the SVG imposes more structure than the source strictly permits.
 
 The generator is deterministic and lives in `scripts/generate_illustrations.py`. Running it produces identical output each time, which is the minimum a catalog owes its reader.
 
