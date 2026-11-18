@@ -17,7 +17,7 @@ status: "unbuilt — magazine-published axonometrics and section drawings"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/plug-in-city.svg" alt="schematic elevation of the Plug-in City" />
+  <img src="../../assets/illustrations/plug-in-city.svg" alt="schematic elevation of the Plug-in City" />
   <figcaption>Diagonal service lattice with plug-in residential and commercial capsules; a crane running on top rail</figcaption>
 </figure>
 

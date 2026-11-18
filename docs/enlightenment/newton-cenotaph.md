@@ -17,7 +17,7 @@ status: "unbuilt"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/newton-cenotaph.svg" alt="schematic elevation of Boullée's Cenotaph for Newton" />
+  <img src="../../assets/illustrations/newton-cenotaph.svg" alt="schematic elevation of Boullée's Cenotaph for Newton" />
   <figcaption>A hollow sphere on a triple-tiered base, cypress trees at the perimeter</figcaption>
 </figure>
 

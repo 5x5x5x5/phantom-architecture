@@ -17,7 +17,7 @@ status: "unbuilt — a scheme, not a site"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/broadacre.svg" alt="schematic plan of Broadacre City" />
+  <img src="../../assets/illustrations/broadacre.svg" alt="schematic plan of Broadacre City" />
   <figcaption>Distributed single-family units on individual acres; one civic spire per district</figcaption>
 </figure>
 

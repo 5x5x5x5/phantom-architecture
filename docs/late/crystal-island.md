@@ -17,7 +17,7 @@ status: "unbuilt — halted by the 2008 financial crisis"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/crystal-island.svg" alt="schematic elevation of Crystal Island" />
+  <img src="../../assets/illustrations/crystal-island.svg" alt="schematic elevation of Crystal Island" />
   <figcaption>A tented glass envelope enclosing apartments, offices, schools, and an international school</figcaption>
 </figure>
 

@@ -17,7 +17,7 @@ status: "unbuilt — visionary drawings, published as a book"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/ferriss.svg" alt="schematic elevation of Ferriss's Metropolis" />
+  <img src="../../assets/illustrations/ferriss.svg" alt="schematic elevation of Ferriss's Metropolis" />
   <figcaption>Stepped setback skyscrapers rendered at colossal scale</figcaption>
 </figure>
 

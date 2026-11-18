@@ -17,7 +17,7 @@ status: "unbuilt — editorial drawing in Archigram magazine"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/walking-city.svg" alt="schematic elevation of the Walking City" />
+  <img src="../../assets/illustrations/walking-city.svg" alt="schematic elevation of the Walking City" />
   <figcaption>Two bug-like megastructures on telescoping legs, crossing a distant skyline</figcaption>
 </figure>
 

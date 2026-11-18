@@ -17,7 +17,7 @@ status: "imagined"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/babel.svg" alt="schematic elevation of the Tower of Babel" />
+  <img src="../../assets/illustrations/babel.svg" alt="schematic elevation of the Tower of Babel" />
   <figcaption>Seven stepped drums, a spiral ramp, and the famously unfinished top</figcaption>
 </figure>
 

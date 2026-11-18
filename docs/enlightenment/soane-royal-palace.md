@@ -17,7 +17,7 @@ status: "unbuilt — Royal Academy student project"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/soane-royal-palace.svg" alt="schematic elevation of Soane's Royal Palace" />
+  <img src="../../assets/illustrations/soane-royal-palace.svg" alt="schematic elevation of Soane's Royal Palace" />
   <figcaption>Palladian main block with hexastyle portico, flanking wings, and low central dome</figcaption>
 </figure>
 

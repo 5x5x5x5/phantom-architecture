@@ -17,7 +17,7 @@ status: "unbuilt — planning permission denied"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/fun-palace.svg" alt="schematic elevation of the Fun Palace" />
+  <img src="../../assets/illustrations/fun-palace.svg" alt="schematic elevation of the Fun Palace" />
   <figcaption>A fixed steel gantry with movable activity modules suspended and cranes above</figcaption>
 </figure>
 

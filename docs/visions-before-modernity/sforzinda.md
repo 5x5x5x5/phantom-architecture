@@ -17,7 +17,7 @@ status: "unbuilt"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/sforzinda.svg" alt="schematic plan of Sforzinda" />
+  <img src="../../assets/illustrations/sforzinda.svg" alt="schematic plan of Sforzinda" />
   <figcaption>Eight-pointed star plan with eight radial streets converging on a central piazza</figcaption>
 </figure>
 

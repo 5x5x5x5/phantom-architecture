@@ -17,7 +17,7 @@ status: "unbuilt — feasibility study, materials not yet extant"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/mega-city-pyramid.svg" alt="schematic elevation of the Mega-City Pyramid" />
+  <img src="../../assets/illustrations/mega-city-pyramid.svg" alt="schematic elevation of the Mega-City Pyramid" />
   <figcaption>Tetrahedral truss holding spherical city modules at nodes</figcaption>
 </figure>
 

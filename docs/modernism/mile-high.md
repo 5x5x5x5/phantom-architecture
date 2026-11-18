@@ -17,7 +17,7 @@ status: "unbuilt — announced without a client"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/mile-high.svg" alt="schematic elevation of the Mile-High Illinois" />
+  <img src="../../assets/illustrations/mile-high.svg" alt="schematic elevation of the Mile-High Illinois" />
   <figcaption>A tripod-braced needle rising from a cluster of conventional skyscrapers</figcaption>
 </figure>
 

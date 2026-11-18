@@ -17,7 +17,7 @@ status: "unbuilt — competition entry, placed third"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/tribune-column.svg" alt="schematic elevation of Loos's Tribune Column" />
+  <img src="../../assets/illustrations/tribune-column.svg" alt="schematic elevation of Loos's Tribune Column" />
   <figcaption>A plinth, a fluted Doric shaft, and a capital — the column as skyscraper</figcaption>
 </figure>
 

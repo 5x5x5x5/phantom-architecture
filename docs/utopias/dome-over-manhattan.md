@@ -17,7 +17,7 @@ status: "unbuilt — feasibility-study drawing, no commission"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/dome-over-manhattan.svg" alt="schematic elevation of Fuller's Dome over Manhattan" />
+  <img src="../../assets/illustrations/dome-over-manhattan.svg" alt="schematic elevation of Fuller's Dome over Manhattan" />
   <figcaption>A geodesic hemispherical shell over a section of Midtown</figcaption>
 </figure>
 

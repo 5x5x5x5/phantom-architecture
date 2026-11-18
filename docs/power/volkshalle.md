@@ -17,7 +17,7 @@ status: "unbuilt — dismantled as a project in 1943"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/volkshalle.svg" alt="schematic elevation of the Volkshalle" />
+  <img src="../../assets/illustrations/volkshalle.svg" alt="schematic elevation of the Volkshalle" />
   <figcaption>A drum of columns beneath a 250-metre interior dome — the largest enclosed space ever proposed</figcaption>
 </figure>
 

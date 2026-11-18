@@ -17,7 +17,7 @@ status: "unbuilt — competition won, funding refused"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/cardiff-opera.svg" alt="schematic elevation of Hadid's Cardiff Opera" />
+  <img src="../../assets/illustrations/cardiff-opera.svg" alt="schematic elevation of Hadid's Cardiff Opera" />
   <figcaption>Collision of tilted prismatic volumes and a sharply cantilevered fin</figcaption>
 </figure>
 

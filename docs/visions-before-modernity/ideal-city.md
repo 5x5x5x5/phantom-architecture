@@ -17,7 +17,7 @@ status: "unbuilt"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/ideal-city.svg" alt="schematic section of Da Vinci's Ideal City" />
+  <img src="../../assets/illustrations/ideal-city.svg" alt="schematic section of Da Vinci's Ideal City" />
   <figcaption>Two-level section: arcaded upper streets, service canal and lower streets beneath</figcaption>
 </figure>
 

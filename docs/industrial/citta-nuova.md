@@ -17,7 +17,7 @@ status: "unbuilt — architect killed at the front, 1916"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/citta-nuova.svg" alt="schematic elevation of a Città Nuova tower" />
+  <img src="../../assets/illustrations/citta-nuova.svg" alt="schematic elevation of a Città Nuova tower" />
   <figcaption>A setback industrial tower with external elevator shafts and an elevated roadway</figcaption>
 </figure>
 

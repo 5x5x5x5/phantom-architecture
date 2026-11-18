@@ -17,7 +17,7 @@ status: "unbuilt — unequivocally refused"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/plan-voisin.svg" alt="schematic elevation of Plan Voisin towers" />
+  <img src="../../assets/illustrations/plan-voisin.svg" alt="schematic elevation of Plan Voisin towers" />
   <figcaption>Eighteen identical cruciform towers; the plan shows six in elevation for clarity</figcaption>
 </figure>
 

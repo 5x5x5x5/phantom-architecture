@@ -17,7 +17,7 @@ status: "partially built — foundations laid; steel erected; abandoned in 1941"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/palace-of-soviets.svg" alt="schematic elevation of the Palace of the Soviets" />
+  <img src="../../assets/illustrations/palace-of-soviets.svg" alt="schematic elevation of the Palace of the Soviets" />
   <figcaption>Tiered stepped base with a colossal Lenin at the summit — a finger of granite, raised</figcaption>
 </figure>
 

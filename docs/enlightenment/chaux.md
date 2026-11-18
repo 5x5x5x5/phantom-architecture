@@ -17,7 +17,7 @@ status: "partially built — half-circle realised, radial city never begun"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/chaux.svg" alt="schematic plan of the Chaux Saltworks" />
+  <img src="../../assets/illustrations/chaux.svg" alt="schematic plan of the Chaux Saltworks" />
   <figcaption>The built half-circle, with the Director's House at centre and workshops on the arc</figcaption>
 </figure>
 

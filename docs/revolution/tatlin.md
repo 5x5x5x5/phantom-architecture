@@ -17,7 +17,7 @@ status: "unbuilt — wooden model only"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/tatlin.svg" alt="schematic elevation of Tatlin's Monument" />
+  <img src="../../assets/illustrations/tatlin.svg" alt="schematic elevation of Tatlin's Monument" />
   <figcaption>A leaning double helix enclosing three rotating volumes — cube, pyramid, cylinder</figcaption>
 </figure>
 

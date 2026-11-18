@@ -17,7 +17,7 @@ status: "unbuilt — presented at World Design Conference, Tokyo 1960"
 </dl>
 
 <figure>
-  <img src="../assets/illustrations/tokyo-bay.svg" alt="schematic section of the Tokyo Bay Plan" />
+  <img src="../../assets/illustrations/tokyo-bay.svg" alt="schematic section of the Tokyo Bay Plan" />
   <figcaption>Central highway spine on piers, with A-frame residential megastructures branching above</figcaption>
 </figure>
 
